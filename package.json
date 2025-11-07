@@ -11,5 +11,11 @@
   },
   "scripts": {
     "start": "node server.js"
+  },
+  {
+    "scripts": {
+  "start": "node server.js",
+  "vercel-build": "echo 'Vercel build complete'"
+}
   }
 }

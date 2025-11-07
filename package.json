@@ -10,12 +10,7 @@
     "cors": "^2.8.5"
   },
   "scripts": {
-    "start": "node server.js"
-  },
-  {
-    "scripts": {
-  "start": "node server.js",
-  "vercel-build": "echo 'Vercel build complete'"
-}
+    "start": "node server.js",
+    "vercel-build": "echo 'Vercel build complete'"
   }
 }
